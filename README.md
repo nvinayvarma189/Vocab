@@ -1,2 +1,2 @@
-# Vocab
-Eliminate vocab
+# Vocabulary
+Eliminate vocabulary
